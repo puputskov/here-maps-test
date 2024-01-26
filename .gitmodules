@@ -1,0 +1,3 @@
+[submodule "here-data-sdk-cpp"]
+	path = here-data-sdk-cpp
+	url = https://github.com/heremaps/here-data-sdk-cpp
